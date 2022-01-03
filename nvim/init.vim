@@ -14,12 +14,12 @@ endif
 set number
 set tabstop=4
 set shiftwidth=4
-map r :call CompileRunGcc()<CR>
+map <F5> :call CompileRunGcc()<CR>
 func! CompileRunGcc()
 	exec "w"
 	if &filetype == 'c'
-		exec "!g++ % -o %<"
-		exec "!time %<"
+		exec ":silent !g++ % -o %<"
+		exec ":!time ./%<.exe"
 	elseif &filetype == 'cpp'
 		exec "!g++ % -o %<"
 		exec "!time ./%<"
