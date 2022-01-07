@@ -1,0 +1,83 @@
+08時44分41秒.374: CPU Name: Intel(R) Core(TM) i5-6400 CPU @ 2.70GHz
+08時44分41秒.374: CPU Speed: 2700.000MHz
+08時44分41秒.374: Physical Cores: 4, Logical Cores: 4
+08時44分41秒.374: Physical Memory: 7863MB Total, 6026MB Free
+08時44分41秒.374: Kernel Version: Linux 5.15.7-arch1-1
+08時44分41秒.374: Distribution: "Arch Linux" Unknown
+08時44分41秒.374: Session Type: x11
+08時44分41秒.374: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+08時44分41秒.376: Portable mode: false
+08時44分41秒.431: OBS 27.1.3-2 (linux)
+08時44分41秒.431: ---------------------------------
+08時44分41秒.432: ---------------------------------
+08時44分41秒.432: audio settings reset:
+08時44分41秒.432: 	samples per sec: 48000
+08時44分41秒.432: 	speakers:        2
+08時44分41秒.436: ---------------------------------
+08時44分41秒.436: Initializing OpenGL...
+08時44分41秒.522: Loading up OpenGL on adapter Intel Mesa Intel(R) HD Graphics 530 (SKL GT2)
+08時44分41秒.522: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.3.1, shading language 4.60
+08時44分41秒.541: ---------------------------------
+08時44分41秒.541: video settings reset:
+08時44分41秒.541: 	base resolution:   1920x1080
+08時44分41秒.541: 	output resolution: 1280x720
+08時44分41秒.541: 	downscale filter:  Bicubic
+08時44分41秒.541: 	fps:               30/1
+08時44分41秒.541: 	format:            NV12
+08時44分41秒.541: 	YUV mode:          709/Partial
+08時44分41秒.541: NV12 texture support not available
+08時44分41秒.547: Audio monitoring device:
+08時44分41秒.547: 	name: 預設裝置
+08時44分41秒.547: 	id: default
+08時44分41秒.547: ---------------------------------
+08時44分41秒.550: Failed to load 'en-US' text for module: 'decklink-captions.so'
+08時44分41秒.552: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+08時44分41秒.677: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+08時44分41秒.677: No blackmagic support
+08時44分41秒.698: v4l2loopback not installed, virtual camera disabled
+08時44分41秒.725: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: 無法開啟共用物件: 沒有此一檔案或目錄
+08時44分41秒.725: 
+08時44分41秒.725: FFMPEG VAAPI supported
+08時44分41秒.749: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7: 無法開啟共用物件: 沒有此一檔案或目錄
+08時44分41秒.749: 
+08時44分41秒.749: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+08時44分41秒.753: ---------------------------------
+08時44分41秒.754:   Loaded Modules:
+08時44分41秒.754:     text-freetype2.so
+08時44分41秒.754:     rtmp-services.so
+08時44分41秒.754:     obs-x264.so
+08時44分41秒.754:     obs-transitions.so
+08時44分41秒.754:     obs-outputs.so
+08時44分41秒.754:     obs-libfdk.so
+08時44分41秒.754:     obs-filters.so
+08時44分41秒.754:     obs-ffmpeg.so
+08時44分41秒.754:     linux-v4l2.so
+08時44分41秒.754:     linux-pulseaudio.so
+08時44分41秒.754:     linux-jack.so
+08時44分41秒.754:     linux-decklink.so
+08時44分41秒.754:     linux-capture.so
+08時44分41秒.754:     linux-alsa.so
+08時44分41秒.754:     image-source.so
+08時44分41秒.754:     frontend-tools.so
+08時44分41秒.754:     decklink-ouput-ui.so
+08時44分41秒.754:     decklink-captions.so
+08時44分41秒.754: ---------------------------------
+08時44分41秒.755: ==== Startup complete ===============================================
+08時44分41秒.765: All scene data cleared
+08時44分41秒.765: ------------------------------------------------
+08時44分41秒.780: pulse-input: Server name: 'pulseaudio 15.0'
+08時44分41秒.780: pulse-input: Audio format: s16le, 44100 Hz, 2 channels
+08時44分41秒.780: pulse-input: Started recording from 'alsa_output.pci-0000_00_1f.3.analog-stereo.monitor'
+08時44分41秒.780: [Loaded global audio device]: '輸出音效 1'
+08時44分41秒.834: xcompcap: [window-capture: '截取視窗（Xcomposite）'] update settings:
+08時44分41秒.834: 	title: Faline San (@falineishere) • Instagram photos and videos — Mozilla Firefox
+08時44分41秒.834: 	class: Navigator
+08時44分41秒.834: 	Bit depth: 32
+08時44分41秒.834: 	Found proper GLXFBConfig (in 392): yes
+08時44分41秒.834: 
+08時44分41秒.834: Switched to scene '場景'
+08時44分41秒.835: ------------------------------------------------
+08時44分41秒.835: Loaded scenes:
+08時44分41秒.835: - scene '場景':
+08時44分41秒.835:     - source: '截取視窗（Xcomposite）' (xcomposite_input)
+08時44分41秒.835: ------------------------------------------------

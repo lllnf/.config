@@ -36,13 +36,14 @@ gaps outer 0
 
 
 
-exec_always ~/.config/polybar/launch.sh
-exec_always "feh --bg-scale ~/.config/i3/wallpaper1.jpg"
-exec_always "picom --experimental-backend"
+exec_always --no-startup-id ~/.config/polybar/launch.sh
+exec_always --no-startup-id "feh --bg-scale ~/.config/i3/wallpaper1.jpg"
+exec_always --no-startup-id "picom --experimental-backend"
+exec_always --no-startup-id fcitx
+exec_always --no-startup-id copyq
+exec_always --no-startup-id flameshot
 
 # exec --no-startup-id "picom --experimental-backend"
-exec --no-startup-id fcitx
-exec --no-startup-id copyq
 
 
 # assigning windows to apecific ws

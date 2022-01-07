@@ -1,0 +1,40 @@
+2021/12/15-15:29:53.359 5252 Reusing MANIFEST /home/enfu/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/15-15:30:02.493 532a Level-0 table #5: started
+2021/12/15-15:30:02.511 532a Level-0 table #5: 1213716 bytes OK
+2021/12/15-15:30:02.513 532a Delete type=0 #3
+2021/12/15-15:30:09.576 532a Level-0 table #7: started
+2021/12/15-15:30:09.593 532a Level-0 table #7: 1009561 bytes OK
+2021/12/15-15:30:09.594 532a Delete type=0 #4
+2021/12/15-15:30:09.993 532a Compacting 1@1 + 1@2 files
+2021/12/15-15:30:10.027 532a Generated table #8@1: 6255 keys, 1089206 bytes
+2021/12/15-15:30:10.027 532a Compacted 1@1 + 1@2 files => 1089206 bytes
+2021/12/15-15:30:10.028 532a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/15-15:30:10.028 532a Delete type=2 #5
+2021/12/15-15:30:10.028 532a Delete type=2 #7
+2021/12/15-15:32:55.690 532a Level-0 table #10: started
+2021/12/15-15:32:55.707 532a Level-0 table #10: 1269631 bytes OK
+2021/12/15-15:32:55.709 532a Delete type=0 #6
+2021/12/15-15:34:55.433 532a Compacting 1@1 + 1@2 files
+2021/12/15-15:34:55.464 532a Generated table #11@1: 8878 keys, 1701074 bytes
+2021/12/15-15:34:55.464 532a Compacted 1@1 + 1@2 files => 1701074 bytes
+2021/12/15-15:34:55.465 532a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/15-15:34:55.466 532a Delete type=2 #8
+2021/12/15-15:34:55.466 532a Delete type=2 #10
+2021/12/15-16:06:54.956 532a Level-0 table #13: started
+2021/12/15-16:06:54.974 532a Level-0 table #13: 1833366 bytes OK
+2021/12/15-16:06:54.975 532a Delete type=0 #9
+2021/12/15-16:09:01.702 532a Compacting 1@1 + 1@2 files
+2021/12/15-16:09:01.734 532a Generated table #14@1: 9215 keys, 1762975 bytes
+2021/12/15-16:09:01.734 532a Compacted 1@1 + 1@2 files => 1762975 bytes
+2021/12/15-16:09:01.735 532a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/15-16:09:01.735 532a Delete type=2 #13
+2021/12/15-16:09:01.735 532a Delete type=2 #11
+2021/12/15-16:59:54.737 532a Level-0 table #16: started
+2021/12/15-16:59:54.753 532a Level-0 table #16: 1878581 bytes OK
+2021/12/15-16:59:54.755 532a Delete type=0 #12
+2021/12/15-17:00:29.633 532a Compacting 1@1 + 1@2 files
+2021/12/15-17:00:29.667 532a Generated table #17@1: 9500 keys, 1850751 bytes
+2021/12/15-17:00:29.667 532a Compacted 1@1 + 1@2 files => 1850751 bytes
+2021/12/15-17:00:29.670 532a compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/15-17:00:29.670 532a Delete type=2 #16
+2021/12/15-17:00:29.670 532a Delete type=2 #14
