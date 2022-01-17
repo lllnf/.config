@@ -33,11 +33,11 @@ map <F5> :call CompileRunGcc()<CR>
 func! CompileRunGcc()
 	exec "w"
 	if &filetype == 'c'
-		exec ":silent !g++ % -o %<"
-		exec ":!time ./%<.exe"
+		exec ":silent !gcc % -o %<"
+		exec ":!time ./%<"
 	elseif &filetype == 'cpp'
-		exec "!g++ % -o %<"
-		exec "!time ./%<"
+		exec ":silent !g++ % -o %<"
+		exec ":!time ./%<"
 	elseif &filetype == 'html'
 		exec "!chromium % &"
 	elseif &filetype == 'python'
