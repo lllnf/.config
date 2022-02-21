@@ -1,3 +1,6 @@
-2021/12/15-23:55:44.420 5 Reusing MANIFEST /home/enfu/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2021/12/15-23:55:44.423 5 Recovering log #3
-2021/12/15-23:55:44.423 5 Reusing old log /home/enfu/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/01/13-13:13:27.830 5 Reusing MANIFEST /home/enfu/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/13-13:13:27.830 5 Recovering log #3
+2022/01/13-13:13:27.831 5 Reusing old log /home/enfu/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/01/13-13:40:30.346 8 Level-0 table #5: started
+2022/01/13-13:40:30.353 8 Level-0 table #5: 94752 bytes OK
+2022/01/13-13:40:30.358 8 Delete type=0 #3
